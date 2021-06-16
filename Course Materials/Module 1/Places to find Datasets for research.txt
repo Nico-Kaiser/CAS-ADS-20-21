@@ -1,0 +1,6 @@
+Registry of research data repositories: https://www.re3data.org/
+Google dataset search: https://datasetsearch.research.google.com/
+Elsevier datasearch: https://data.mendeley.com/research-data/
+Openaire: https://explore.openaire.eu/
+DataCite: https://search.datacite.org/
+
